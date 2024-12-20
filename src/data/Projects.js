@@ -32,7 +32,7 @@ export default function ProjectsContent() {
             description="Funny and a basic Drum kit system"
             techstack="HTML, CSS,Javascript"
             imgSrc={project3}
-            // liveUrl="https://github.com/saloni-15/nextlevel-food"
+            liveUrl="https://adorable-pudding-c790c5.netlify.app/"
             codeUrl="https://github.com/AmanAB-9162/Drum-Sound-Kit"
           />
           <ProjectCard
